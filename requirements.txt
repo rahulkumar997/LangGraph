@@ -1,0 +1,14 @@
+langgraph
+langchain
+langsmith
+python-dotenv
+langchain-groq 
+langchain_tavily
+langchain_ollama 
+langchain_google_genai 
+faiss-cpu 
+langchain_huggingface 
+setuptools
+pypdf
+python-dotenv
+langchain_tavily
